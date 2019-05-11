@@ -1,4 +1,7 @@
 
 module.exports = {
-  count: 0
+  root: {
+    id: '0',
+    children: []
+  }
 }
